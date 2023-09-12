@@ -8,3 +8,18 @@ The Product owner is needed in Agile Methdoology to ensure proper and efficient 
 The Scrum Master is responsible for all scrum related tasks--such as JIRA tooling, facilitating sprints and meetings, and running standups.
 The role of the Product owner is to guide the team, facilitating release and stakeholder management, and providing scrums with insightful feedback. 
 The responsibilities of the Product Owner includes creating, prioritizing, and managing the product backlog to omptimize company efficiency/perfomance.
+
+(c) Sprint Cycle: The sprint cycle includes a sprint planning meeting, daily scrum/standup meeting, and a sprint retrospective.
+
+1. Sprint Planning Meeting: Thsi is a meetinhg to determine what needs to be completed in the coming sprint.
+- Move stories in sprint scope from backlog to current sprint
+- Determine story points and assign/distribute stories to team
+
+2. Daily Scrum/Standup Meeting: This is a short meeting taht occurs everday.
+- Team members discuss work completed
+- Team memebrs share their work plan for the day and any blockers that they have
+
+3. Sprint Retrospective Meeting: This is a meeting that occurs at the end of the sprint.
+- Team members discuss the work completed.
+- Incompleted work is moved to the backlog.
+- The sprint is closed.
