@@ -23,3 +23,11 @@ The responsibilities of the Product Owner includes creating, prioritizing, and m
 - Team members discuss the work completed.
 - Incompleted work is moved to the backlog.
 - The sprint is closed.
+
+(d) 
+Epic: An epic captures a large body of work that is broken down and distributed amoungst several smaller stories.
+Story: A story is a software system requirement or functionality (usually pertaining to an epic) that is expressed in a few short sentences.
+Bug: A bug is an issue with a software product in development that causes it to malfunction.
+Task: A task is the individual steps/work necessary to resolve an issue.
+
+
