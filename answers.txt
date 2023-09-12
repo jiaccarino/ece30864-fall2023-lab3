@@ -1,0 +1,5 @@
+Answers:
+
+(a) In a non-Agile project the equivalent to the Product Owner is the project manager, who takes control in overseeing the planning and execution of a waterfall project.
+A product owner's roll is to guide the team, facilitating release and stakeholder management, and providing scrums with insightful feedback. 
+The Product owner is needed in Agile Methdoology to ensure proper and efficient execution of the project, and bridge the gap between developers and stakeholders.
